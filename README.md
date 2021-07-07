@@ -1,6 +1,6 @@
 # Hi! Welcome to my GitHub Profile 😃 
 
-I am Sacha Cuña, Full Stack Developer💻 who enjoys team work and building new things.
+I am Sacha Cuña, Full Stack Developer💻 I enjoy team work and building new things.
 I am passionate about technology 📡, stock market 📈 and soccer ⚽.
 
 📛 My pronouns: He/his
@@ -31,7 +31,7 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 📚 Additionally, I am studing a 3 year diploma in Computer Science at UNGS.
 
 ### Wishlist: 
--🌱 Learn TypeScript & React Native
+- 🌱 Learn TypeScript & React Native
 
 ## How to contact me? 
 
