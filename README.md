@@ -30,11 +30,10 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 
 📚 Additionally, I am studing a 3 year diploma in Computer Science at UNGS.
 
+### Wishlist: 
+-🌱 Learn TypeScript & React Native
 
 ## How to contact me? 
 
 📬 Send me an email: sacha.cuna@gmail.com,
 and connect with me on [Linkedin](https://www.linkedin.com/in/sacha-cuna/)!
-
-## Wishlist: 
--🌱 Learn TypeScript & React Native
