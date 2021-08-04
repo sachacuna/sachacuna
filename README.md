@@ -23,10 +23,10 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 - Sequelize
 
 ### Projects 
-- Healthier 🍅🌽🍉---> a healthy food e-commerce: Work In Progress!
-- Weather App ☀️☁️❄️---> Visit the repository here!
-- Pokemon App 🌌---> Visit the repository here!
-- Movies App 🎥📺---> Visit the repository here!
+- Healthier 🍅🌽🍉---> a healthy food e-commerce: Visit the repository [here](https://github.com/Healthier-Group/Healthier)!
+- Weather App ☀️☁️❄️---> Visit the repository [here](https://github.com/sachacuna/SC-WeatherApp)!
+- Pokemon App 🌌---> Visit the repository [here](https://github.com/sachacuna/PI-Pokemon-FT13)!
+- Movies App 🎥📺---> Visit the repository here! SOON!
 
 📚 Additionally, I am studing a 3 year diploma in Computer Science at UNGS.
 
