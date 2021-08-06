@@ -13,8 +13,10 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 - HTML
 - CSS
 - JavaScript 
-- React & Redux
+- React.Js
+- Redux
 - Material UI
+- Bootstrap
 
 ### Back-End
 - Node.Js
