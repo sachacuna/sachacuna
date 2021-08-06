@@ -23,8 +23,8 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 - Sequelize
 
 ### Projects 
-- Healthier 🍅🌽🍉---> a healthy food e-commerce: Visit the repository [here](https://github.com/Healthier-Group/Healthier)!
-- Weather App ☀️☁️❄️---> Visit the repository [here](https://github.com/sachacuna/SC-WeatherApp)!
+- [Healthier](https://healthier.vercel.app/) 🍅🌽🍉---> a healthy food e-commerce: Visit the repository [here](https://github.com/Healthier-Group/Healthier)!
+- [Weather App](https://sc-weather-app.vercel.app/)☀️☁️❄️---> Visit the repository [here](https://github.com/sachacuna/SC-WeatherApp)!
 - Pokemon App 🌌---> Visit the repository [here](https://github.com/sachacuna/PI-Pokemon-FT13)!
 - Movies App 🎥📺---> Visit the repository here! SOON!
 
