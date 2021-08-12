@@ -17,6 +17,7 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 - Redux
 - Material UI
 - Bootstrap
+- Gatsby
 
 ### Back-End
 - Node.Js
@@ -25,6 +26,7 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 - Sequelize
 
 ### Projects 
+- [Porfolio](https://scportfolio.vercel.app/) ⚡---> Visit the repository [here](https://github.com/sachacuna/portfolio)!
 - [Healthier](https://healthier.vercel.app/) 🍅🌽🍉---> a healthy food e-commerce: Visit the repository [here](https://github.com/Healthier-Group/Healthier)!
 - [Weather App](https://sc-weather-app.vercel.app/)☀️☁️❄️---> Visit the repository [here](https://github.com/sachacuna/SC-WeatherApp)!
 - Pokemon App 🌌---> Visit the repository [here](https://github.com/sachacuna/PI-Pokemon-FT13)!
@@ -33,9 +35,10 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 📚 Additionally, I am studing a 3 year diploma in Computer Science at UNGS.
 
 ### Wishlist: 
-- 🌱 Learn TypeScript & React Native
+- 🌱 Learn TypeScript(learning in progress), GraphQl, Next.JS & React Native
 
 ## How to contact me? 
 
 📬 Send me an email: sacha.cuna@gmail.com,
 and connect with me on [Linkedin](https://www.linkedin.com/in/sacha-cuna/)!
+or you can visit my [Porfolio](https://scportfolio.vercel.app/) too!
