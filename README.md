@@ -35,7 +35,7 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 📚 Additionally, I am studing a 3 year diploma in Computer Science at UNGS.
 
 ### Wishlist: 
-- 🌱 Learn TypeScript(learning in progress), GraphQl, Next.JS & React Native
+- 🌱 Learn TypeScript(learning in progress), GraphQL, Next.JS & React Native
 
 ## How to contact me? 
 
