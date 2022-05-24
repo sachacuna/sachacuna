@@ -10,17 +10,19 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 ### Technologies: 
 
 ### Front-End
-- HTML
-- CSS
 - JavaScript 
 - React.Js
 - Redux
 - Material UI
+- GraphQL
 - Bootstrap
 - Gatsby
+- HTML
+- CSS
 
 ### Back-End
 - Node.Js
+- AWS Amplify (Dynamo DB, S3, Lambda functions, Cognito, etc.)
 - Express
 - PostgreSQL
 - Sequelize
@@ -32,10 +34,8 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 - Pokemon App 🌌---> Visit the repository [here](https://github.com/sachacuna/PI-Pokemon-FT13)!
 - Movies App 🎥📺---> Visit the repository here! SOON!
 
-📚 Additionally, I am studing a 3 year diploma in Computer Science at UNGS.
-
 ### Wishlist: 
-- 🌱 Learn TypeScript(learning in progress), GraphQL, Next.JS & React Native
+- 🌱 Learn TypeScript(learning in progress), Next.JS & React Native
 
 ## How to contact me? 
 
