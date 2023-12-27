@@ -1,9 +1,9 @@
 # Hi! Welcome to my GitHub Profile 😃 
 
 I am Sacha Cuña, Full Stack Developer💻 I enjoy team work and building new things.
-I am passionate about technology 📡, stock market 📈 and soccer ⚽.
+I am passionate about technology 📡, fintech 📈 and soccer ⚽.
 
-📛 My pronouns: He/his
+📛 My pronouns: He/him
 
 I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live classes, code reviews, practice and pair programming. This allowed me to learn the following:
 
@@ -22,7 +22,9 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 
 ### Back-End
 - Node.Js
-- AWS Amplify (Dynamo DB, S3, Lambda functions, Cognito, etc.)
+- Typescript
+- AWS (Amplif, Dynamo DB, S3, Lambdas, Cognito, etc.)
+- MongoDb
 - Express
 - PostgreSQL
 - Sequelize
@@ -33,9 +35,6 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 - [Weather App](https://sc-weather-app.vercel.app/)☀️☁️❄️---> Visit the repository [here](https://github.com/sachacuna/SC-WeatherApp)!
 - Pokemon App 🌌---> Visit the repository [here](https://github.com/sachacuna/PI-Pokemon-FT13)!
 - Movies App 🎥📺---> Visit the repository here! SOON!
-
-### Wishlist: 
-- 🌱 Learn TypeScript(learning in progress), Next.JS & React Native
 
 ## How to contact me? 
 
