@@ -26,6 +26,7 @@ I completed the Henry Bootcamp ⚡, a +700 hs online program, consisting of live
 - AWS (Amplif, Dynamo DB, S3, Lambdas, Cognito, etc.)
 - MongoDb
 - Express
+- GraphQL
 - PostgreSQL
 - Sequelize
 
