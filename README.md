@@ -1,6 +1,6 @@
 # Hi! Welcome to my GitHub Profile 😃 
 
-I am Sacha Cuña, a Full Stack Developer💻 with more than 3.5 years of experience in start up companies who enjoys team work and building new things.
+I am Sacha Cuña, a Full Stack Developer💻 with more than 3.5 years of experience in start up companies (healthcare, fintech and AI sector) who enjoys team work and building new things.
 I am passionate about technology 📡, the stock market 📈 and soccer ⚽.
 
 📛 My pronouns: He/him
